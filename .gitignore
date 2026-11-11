@@ -1,0 +1,17 @@
+# LaTeX pomocne datoteke
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.lof
+*.lot
+*.pdf
+
+# Dodatna gradiva in testne datoteke
+latex-pregled/
+05-latex/test/
